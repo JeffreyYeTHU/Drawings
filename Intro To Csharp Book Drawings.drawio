@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-02-19T05:55:10.216Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.6.1" etag="BNLeNsKCXw1WqxolYwus" type="github"><diagram id="ctrIMuenUHtmwKar7tfj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-19T06:09:58.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="eubHn71RueQd-aHH9FBA" version="16.6.1" type="github">
+  <diagram id="ctrIMuenUHtmwKar7tfj" name="Page-1">
+    <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-1" value="Common Language Runtime" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="234" y="353" width="376" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-2" value="Base Class Library" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="234" y="303" width="376" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-3" value="Data and XML Classes" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="234" y="250" width="376" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-4" value="ASP.NET" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="234" y="200" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-5" value="Blazor" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-6" value="MAUI" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="486" y="200" width="124" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-7" value="Common Language Runtime" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="234" y="150" width="376" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-8" value="C#" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="234" y="100" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-9" value="F#" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="359" y="100" width="126" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-10" value="VB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="486" y="100" width="124" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nF4RDHI_B9qWZAoWCmCx-12" value=".NET" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#b1ddf0;strokeColor=#10739e;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="499.38" y="210.63" width="301.25" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
